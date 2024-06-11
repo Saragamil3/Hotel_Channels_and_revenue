@@ -5,7 +5,8 @@ Business Problem:
  The hotel management wants to understand the financial impact of these channels to optimize their strategy and improve profitability.
  
  Stages and Tools:
- 1-Data Cleaning
+ 
+ 1-Data Cleaning 
  -check if there missing value or errors (not founded)
  - changing data types
  - handling date column using Excel Functions ( IF , Date )  
