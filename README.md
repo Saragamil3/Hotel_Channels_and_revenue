@@ -3,6 +3,7 @@ Business Problem:
  A mid-sized hotel is facing challenges in managing bookings from various channels, including Online Travel Agencies (OTAs), direct bookings, and travel agents.
  Each booking channel comes with its own set of costs, commissions, and revenue implications.
  The hotel management wants to understand the financial impact of these channels to optimize their strategy and improve profitability.
+ 
  Stages and Tools:
  1-Data Cleaning
  -check if there missing value or errors (not founded)
