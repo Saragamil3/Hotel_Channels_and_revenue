@@ -7,12 +7,15 @@ Business Problem:
  Stages and Tools:
  
  1-Data Cleaning 
+ 
  -check if there missing value or errors (not founded)
  - changing data types
- - handling date column using Excel Functions ( IF , Date )  
+ - handling date column using Excel Functions ( IF , Date )
+ -  
  2- Analysis
  - calculate columns Revenue, CommessionAmount , NetRevenue and booking_Duration 
  - analyze and answering the questions using Excel Pivot Table
+   
  3- Visualization 
   transform numbers to charts using Excel Pivot Chart 
  
