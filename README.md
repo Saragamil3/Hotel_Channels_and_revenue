@@ -17,5 +17,5 @@ Business Problem:
  - analyze and answering the questions using Excel Pivot Table
    
  3- Visualization 
-  transform numbers to charts using Excel Pivot Chart 
+  - transform numbers to charts using Excel Pivot Chart 
  
