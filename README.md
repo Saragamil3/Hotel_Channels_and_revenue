@@ -1,3 +1,6 @@
+
+Task 1 in an online data analysis workshop 
+
 Business Problem:
  Commission Impact: Assess how much is being paid in commissions and its impact on net revenue.
  A mid-sized hotel is facing challenges in managing bookings from various channels, including Online Travel Agencies (OTAs), direct bookings, and travel agents.
