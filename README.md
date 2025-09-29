@@ -1,5 +1,7 @@
 
 
+## DASHBOARD 
+![Imege]( https://github.com/Saragamil3/Hotel_Channels_and_revenue/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%202024-06-04%20124605.png)
 
 ## Business Problem
  Commission Impact: Assess how much is being paid in commissions and its impact on net revenue.
@@ -22,5 +24,3 @@
  ## Visualization 
   - transform numbers to charts using Excel Pivot Chart
 
-## DASHBOARD 
-![Imege]( https://github.com/Saragamil3/Hotel_Channels_and_revenue/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%202024-06-04%20124605.png)
